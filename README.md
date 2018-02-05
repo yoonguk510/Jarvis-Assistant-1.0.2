@@ -23,5 +23,7 @@ $ pip3 install wikipedia
 
 
 After Installing Download Github File and run it by 
+
 $ cd 'Your Directory'
+
 $ python3 Jarvis.py
