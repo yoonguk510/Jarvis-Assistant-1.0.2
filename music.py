@@ -17,7 +17,7 @@ def get_files(root):
     return files
 
 # double-buffered playlists so there aren't any repeats
-buffers = (get_files("/home/yoonguk510/Desktop/Jarvis/music"), [])
+buffers = (get_files("music folder directory"), [])
 playing = 0
 
 while True:
