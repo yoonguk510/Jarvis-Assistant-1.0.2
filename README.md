@@ -21,20 +21,7 @@ $ pip3 install wolframalpha
 
 $ pip3 install wikipedia
 
-Setup For Windows
 
-
-
-Link for Instruction
-
-Install Python
-
-gTTs API
-
-wolframalpha API
-
-wikipedia API
-
-
-
-After Installing Python and the Plugins You can Download Project Here or can see copy the Code below...
+After Installing Download Github File and run it by 
+$ cd 'Your Directory'
+$ python3 Jarvis.py
