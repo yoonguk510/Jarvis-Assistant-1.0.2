@@ -10,12 +10,20 @@ New Jarvis Personal Assistant :: Open Source 
 Setup For Ubuntu
 
 $ sudo apt-get update
+
 $ sudo apt-get -y upgrade
+
 $ sudo apt-get install -y python3-pip
+
 $ pip3 install gTTS
+
 $ pip3 install wolframalpha
+
 $ pip3 install wikipedia
+
 Setup For Windows
+
+
 
 Link for Instruction
 
